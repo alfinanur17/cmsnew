@@ -55,7 +55,7 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Alfina Nur Azizah
+                                    Alfina Nur Azizah MI 2E
                                 </div>
                             </div>
                         </div>
